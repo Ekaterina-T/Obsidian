@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "14d56102ba11374d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c9d1a863860d992",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "How requst is processed in the internet.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ee6adede6770ef9",
+    "type": "split",
+    "children": [
+      {
+        "id": "68f5e09f83619ab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e4ebeec2a73d1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a1fb6a481a7d413",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d979654b232b4ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b478654fcb8a7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b6013c9870b02c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How requst is processed in the internet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4995bc96a6c41fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6c9d1a863860d992",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Internet.md",
+    "HTTP.md",
+    "202104251902.md",
+    "Network/HTTP.md"
+  ]
+}

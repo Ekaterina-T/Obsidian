@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "a3039eece01d9725",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8680b9efac80667",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba5cf61027505739",
+    "type": "split",
+    "children": [
+      {
+        "id": "df2bd2c4540a486b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4edcddfb1c6ea25d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "942e421fb3970fdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52590818dc56d23f",
+    "type": "split",
+    "children": [
+      {
+        "id": "433a06a00df56657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4405ffd92880f40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a8680b9efac80667",
+  "lastOpenFiles": [
+    "Development/HTTP.md",
+    "Development/How requst is processed in the internet.md"
+  ]
+}
