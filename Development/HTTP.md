@@ -1,5 +1,8 @@
 ### HTTP - Hyper Text Transfer Protocol
 
-протокол по которому общаются устройства сети интернет
+Это протокол по которому общаются устройства сети [[Internet]].
 
-[[Internet]]
+Простейшая форма:
+
+method resource ⤶
+GET /page.html↵

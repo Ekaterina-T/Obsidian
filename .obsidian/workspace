@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Development/Запрос веб-старницы.md",
+            "file": "Development/Telnet.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Запрос веб-старницы.md",
+                "file": "Development/Telnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,14 @@
   },
   "active": "a8680b9efac80667",
   "lastOpenFiles": [
-    "Development/Запрос веб-старницы.md",
+    "Development/Telnet.md",
     "Development/TCP_IP.md",
-    "Development/Internet.md",
+    "Development/Запрос веб-старницы.md",
+    "Untitled.md",
     "Development/HTTP.md",
+    "Development/Internet.md",
     "Development/Port.md",
     "Development/TCP.md",
-    "Untitled.md",
     "Development/How requst is processed in the internet.md"
   ]
 }
