@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Development/Telnet.md",
+            "file": "Development/TLS_handshake.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Telnet.md",
+                "file": "Development/TLS_handshake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "a8680b9efac80667",
   "lastOpenFiles": [
+    "Development/TLS_handshake.md",
+    "Development/TLS_SSL.md",
+    "Development/HTTPS.md",
+    "Untitled.md",
+    "Development/PublicKeyEncryption.md",
     "Development/Telnet.md",
     "Development/TCP_IP.md",
     "Development/Запрос веб-старницы.md",
-    "Untitled.md",
-    "Development/HTTP.md",
-    "Development/Internet.md",
-    "Development/Port.md",
-    "Development/TCP.md",
-    "Development/How requst is processed in the internet.md"
+    "Development/HTTP_Methods.md",
+    "Development/HTTP_Request.md"
   ]
 }
