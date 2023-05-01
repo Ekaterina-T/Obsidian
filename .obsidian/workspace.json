@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "a3039eece01d9725",
+    "type": "split",
+    "children": [
+      {
+        "id": "199f5579965b5279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "994c9020913698e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tests/Unit Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "452cd732378f4304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tests/Integration test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba5cf61027505739",
+    "type": "split",
+    "children": [
+      {
+        "id": "df2bd2c4540a486b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4edcddfb1c6ea25d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "942e421fb3970fdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdec666565f48ac7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52590818dc56d23f",
+    "type": "split",
+    "children": [
+      {
+        "id": "433a06a00df56657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4405ffd92880f40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tests/Unit Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77f184242ed49e58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tests/Unit Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c01b9b339ce4f7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "194e75ae34f4774b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tests/Unit Test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "994c9020913698e9",
+  "lastOpenFiles": [
+    "Tests/Integration test.md",
+    "Tests/Unit of work.md",
+    "Tests/Unit Test.md",
+    "Development/Запрос веб-старницы.md",
+    "Development/Browser/Rendering Performance.md",
+    "Development/Browser/Render Tree.md",
+    "Development/Browser/DOM.md",
+    "Development/Browser/CSSOM.md",
+    "Development/Browser/Critical Rendering Path.md",
+    "Security/CORS.md",
+    "Development/HTTP.md",
+    "Tests",
+    "Development/Pre-flight request.md",
+    "Development/Browser",
+    "HTTP_Headers.md",
+    "Security",
+    "2023-02-25.md",
+    "Untitled.canvas",
+    "Development/TCP_IP.md",
+    "Security",
+    "Development/Internet.md",
+    "Development/TLS_handshake.md",
+    "Development/TLS_SSL.md",
+    "Development/HTTPS.md",
+    "Development/PublicKeyEncryption.md",
+    "Development/Telnet.md",
+    "Development/HTTP_Methods.md",
+    "Development/HTTP_Request.md"
+  ]
+}
