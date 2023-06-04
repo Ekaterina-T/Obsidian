@@ -8,7 +8,7 @@ A unit test’s scope can span as little as a method or as much as multiple clas
 + be easy to implement. 
 + be relevant tomorrow.
 + Anyone should be able to run it at the push of a button. 
-+ run quickly. 
++ run quickly
 + be consistent in its results (it always returns the same result if you don’t change anything between runs). 
 - have full control of the unit under test.
 - be fully isolated (runs independently of other tests). 
